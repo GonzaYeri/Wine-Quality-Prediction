@@ -1,2 +1,1 @@
-# Wine-Quality-Prediction
-Classification project
+# Wine-Quality-Prediction (Classification project)
